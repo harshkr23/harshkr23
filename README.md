@@ -24,8 +24,6 @@ const Harsh = {<br>    role: "Computer Science Student 👨‍💻",<br>    <br>
 ---
 [![](https://komarev.com/ghpvc/?username=harshkr23&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 About Me:
-const Harsh = {<br>    role: "Computer Science Student 👨‍💻",<br>    <br>    currentFocus: [<br>        "MERN Stack Development",<br>        "Data Structures & Algorithms",<br>        "GATE CSE 2028 Preparation"<br>    ],<br><br>    currentlyLearning: [<br>        "React.js",<br>        "Backend Development",<br>        "Problem Solving",<br>        "Open Source Contribution"<br>    ],<br><br>    technologies: {<br>        languages: ["C", "JavaScript"],<br>        frontend: ["HTML", "CSS", "React"],<br>        backend: ["Node.js", "Express.js"],<br>        database: ["MongoDB"],<br>        tools: ["Git", "GitHub", "VS Code"]<br>    },<br><br>    interests: [<br>        "Full Stack Development",<br>        "AI Tools",<br>        "Competitive Programming"<br>    ],<br><br>    askMeAbout: [<br>        "Web Development",<br>        "DSA Basics",<br>        "GitHub"<br>    ],<br><br>    motto: "Building skills one project at a time 🚀"<br>};
 
 
 ## 🌐 Socials:
